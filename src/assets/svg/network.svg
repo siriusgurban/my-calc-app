@@ -1,0 +1,15 @@
+<svg width="66.661346" height="11.335999" viewBox="0 0 66.6613 11.336" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<g opacity="0.350000">
+		<rect id="Border" x="42.833313" y="0.502655" rx="2.666667" width="21.000000" height="10.333333" stroke="#EBEBF5" stroke-opacity="0.600000" stroke-width="1.000000"/>
+	</g>
+	<g opacity="0.400000">
+		<path id="Cap" d="M65.3333 3.66931L65.3333 7.66931C66.138 7.33054 66.6613 6.54245 66.6613 5.66931C66.6613 4.79617 66.138 4.00809 65.3333 3.66931Z" fill="#EBEBF5" fill-opacity="0.600000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Capacity" x="44.333313" y="2.002655" rx="1.333333" width="18.000000" height="7.333333" fill="#66FF7F" fill-opacity="1.000000"/>
+	<path id="Wifi" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Cellular Connection" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
