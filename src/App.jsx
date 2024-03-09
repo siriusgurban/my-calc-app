@@ -12,12 +12,12 @@ function App() {
     console.log(!isNaN(e), "eeee");
     if (option == "") {
       if (!isNaN(e)) {
-        return setNumber1(e);
+        return setNumber1((prev) => prev + e);
       }
       setNumber1(e.target.value);
     } else {
       if (!isNaN(e)) {
-        return setNumber2(e);
+        return setNumber2((prev) => prev + e);
       }
       setNumber2(e.target.value);
     }
